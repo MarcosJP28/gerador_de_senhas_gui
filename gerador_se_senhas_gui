@@ -30,3 +30,39 @@ resultado.pack()
 
 # Loop principal da interface
 janela.mainloop()
+
+
+
+# Gerador de Senhas com Interface Gráfica (Tkinter)
+
+Um mini app feito em Python usando a biblioteca Tkinter. Permite ao usuário escolher o tamanho da senha e gerar combinações seguras com letras, números e símbolos.
+
+---
+
+### 🇧🇷 Descrição
+
+Este app foi criado como um exercício de interface gráfica para aprimorar os estudos em Python. Utilizando Tkinter, o programa oferece uma interface intuitiva para gerar senhas fortes com apenas um clique.
+
+---
+
+### 🇺🇸 Description
+
+This app was created as a GUI (Graphical User Interface) exercise to improve Python skills. Using Tkinter, it provides a simple interface to generate strong and secure passwords.
+
+---
+
+### 🛠️ Tecnologias / Technologies
+
+- Python
+- Tkinter
+- Lógica de programação
+- `random` e `string`
+
+---
+
+### 💡 Como usar
+
+1. Execute o arquivo `app_senhas_gui.py`
+2. Insira o tamanho da senha desejada
+3. Clique no botão “Gerar Senha”
+4. A senha aparecerá na tela
